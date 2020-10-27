@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### :zap: Github Stats
+[![Mae Perez's github stats](https://github-readme-stats.masterxhen.vercel.app/api?username=maeperez)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **maeperez/maeperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

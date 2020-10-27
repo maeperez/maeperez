@@ -1,4 +1,4 @@
-### Hi there 👋! I am Cherie Mhay Perez (maeperez)[http://github.com/masterxhen]
+### Hi there 👋! I am Cherie Mhay Perez [maeperez](http://github.com/maeperez)
 
 ### :zap: Github Stats
 [![Mae Perez's github stats](https://github-readme-stats.masterxhen.vercel.app/api?username=maeperez)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,9 +1,5 @@
 # Hi there, I'm Cherie Mhay Perez - aka [maeperez][github] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/masterxhen?color=purple&label=Follow%20Me%20on%20Twitter&logo=twitter&logoColor=purple&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=masterxhen)
-<br />
-
-
 ## I'm a Student, Designer, and Developer!!
 - 🧑‍🎓 I am a [Computer Science Student](https://en.wikipedia.org/wiki/Computer_science) [@STI College Muñoz-EDSA](https://www.facebook.com/munoz.sti.edu)
 - 🖥️ Skilled at Research Study
@@ -17,11 +13,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="maeperez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="maeperez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="maeperez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="maeperez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-[<img align="left" alt="maeperez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 
@@ -48,4 +42,5 @@
 [github]: http://github.com/maeperez
 [linkedin]: https://linkedin.com/in/maeperez
 [whatsapp]: https://wa.me/639751784518
+
 

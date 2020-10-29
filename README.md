@@ -1,4 +1,4 @@
-### Hi there 👋! I am Cherie Mhay Perez - [@maeperez](http://github.com/maeperez)
+### Hi there 👋! I'm Cherie Mhay Perez - [@maeperez](http://github.com/maeperez)
 - 🌱 I’m currently learning [STI College Muñoz-Edsa](https://www.facebook.com/munoz.sti.edu) as [Computer Science Student](https://en.wikipedia.org/wiki/Computer_science)
 - 👯 I’m looking to collaborate on a projects that pique my interests
 - 🖌 I am skilled at designing web/mobile pages

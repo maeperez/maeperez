@@ -1,6 +1,6 @@
 # Hi there, I'm Cherie Mhay Perez - aka [maeperez][github] 👋
 
-## I'm a Student, Designer, and Developer!!
+## I'm a Computer Science Graduate, Designer, and Developer!!
 - 🧑‍🎓 I am a [Computer Science Student](https://en.wikipedia.org/wiki/Computer_science) [@STI College Muñoz-EDSA](https://www.facebook.com/munoz.sti.edu)
 - 🖥️ Skilled at Research Study
 - 👯 I’m looking to collaborate with other developers

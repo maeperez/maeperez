@@ -29,15 +29,4 @@
 <br />
 <br />
 
----
-### :zap: Github Stats
-[![Mae Perez's github stats](https://github-readme-stats.masterxhen.vercel.app/api?username=maeperez)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
-
-
-<!-- Social Media Platforms-->
-[github]: http://github.com/maeperez
-[linkedin]: https://linkedin.com/in/mae-perez-6a03271a2/
-[whatsapp]: https://wa.me/639751784518
 

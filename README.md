@@ -8,11 +8,11 @@
 <br />
 
 🛠 Tech Stack
-💻   Python | Node.js
-🌐   React | Angular |  Next.js |  JavaScript | Typescript | CSS |  Bootstrap | Sass | Tailwind | Material UI
-🛢   MySQL | Firebase  | Firestore | MongoDB
-🔧   Visual Studio code | Git | Postman
-🖥   Photoshop | Figma | Adobe Xd
+- 💻   Python | Node.js
+- 🌐   React | Angular |  Next.js |  JavaScript | Typescript | CSS |  Bootstrap | Sass | Tailwind | Material UI
+- 🛢   MySQL | Firebase  | Firestore | MongoDB
+- 🔧   Visual Studio code | Git | Postman
+- 🖥   Photoshop | Figma | Adobe Xd
 
 
 
